@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "test1",
+      "description": "stream1",
+      "id": 1
+    },
+    {
+      "title": "good morning",
+      "description": "chilly",
+      "id": 3
+    },
+    {
+      "title": "Programmatic navigation",
+      "description": "You should not see this on the form again!!!",
+      "userId": "111398278327315963142",
+      "id": 7
+    },
+    {
+      "title": "Me streaming component reuse #2",
+      "description": "Watch me refactor some components #2",
+      "id": 8
+    }
+  ]
+}
